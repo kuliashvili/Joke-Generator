@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.107fcc29.css",
-    "main.js": "/test/static/js/main.3f473df1.js",
-    "static/js/787.daa3a689.chunk.js": "/test/static/js/787.daa3a689.chunk.js",
-    "static/media/backgr.jpg": "/test/static/media/backgr.54b8746562badb4b5ded.jpg",
-    "index.html": "/test/index.html",
-    "main.107fcc29.css.map": "/test/static/css/main.107fcc29.css.map",
-    "main.3f473df1.js.map": "/test/static/js/main.3f473df1.js.map",
-    "787.daa3a689.chunk.js.map": "/test/static/js/787.daa3a689.chunk.js.map"
+    "main.css": "/Joke-Generator/static/css/main.0c235afa.css",
+    "main.js": "/Joke-Generator/static/js/main.1ab4e9cf.js",
+    "static/js/787.daa3a689.chunk.js": "/Joke-Generator/static/js/787.daa3a689.chunk.js",
+    "static/media/backgr.jpg": "/Joke-Generator/static/media/backgr.54b8746562badb4b5ded.jpg",
+    "index.html": "/Joke-Generator/index.html",
+    "main.0c235afa.css.map": "/Joke-Generator/static/css/main.0c235afa.css.map",
+    "main.1ab4e9cf.js.map": "/Joke-Generator/static/js/main.1ab4e9cf.js.map",
+    "787.daa3a689.chunk.js.map": "/Joke-Generator/static/js/787.daa3a689.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.107fcc29.css",
-    "static/js/main.3f473df1.js"
+    "static/css/main.0c235afa.css",
+    "static/js/main.1ab4e9cf.js"
   ]
 }
