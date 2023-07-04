@@ -1,6 +1,6 @@
 # Joke Generator
 
-<h3>Live: https://yulo01.github.io/Joke-Generator/</h3>
+<h2>Live: https://yulo01.github.io/Joke-Generator/</h2>
 
 This is a simple React project that utilizes API calls to fetch jokes and display them on the screen. By clicking the "New Joke" button, you can generate new jokes for endless entertainment
 
