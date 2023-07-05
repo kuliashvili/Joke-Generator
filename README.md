@@ -2,7 +2,7 @@
 
 <h2>Live: https://yulo01.github.io/Joke-Generator/</h2>
 
-This is a simple React project, that utilizes API calls to fetch jokes and display them on the screen. By clicking the "New Joke" button, you can generate new jokes for endless entertainment
+This is a simple React project, that utilizes API calls to fetch jokes and display them on the screen. By clicking the "New Joke" button, you can generate new jokes, for endless entertainment
 
 ![image](https://github.com/yulo01/test/assets/93291077/e82bcf16-84ad-4257-9e60-141bc530e2c9)
 
