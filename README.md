@@ -31,15 +31,15 @@
 3. If the joke type is "twopart," the setup and delivery are combined and displayed as one joke.
 4. Clicking the "New Joke" button triggers a new API call to fetch a new joke, which, is then displayed on the screen.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or would like to add new features, please feel free to submit a pull request.
 
 ## Acknowledgements
 
 This project was created as a learning exercise to practice React and API integration. It makes use of the Joke API for fetching jokes.
 
-
-
 Thanks for checking out the Joke Generator! Have fun generating and enjoying the jokes!
+
+## Contributing
+
+<h3>Contributions are welcome! If you find any issues or would like to add new features, please feel free to submit a pull request.</h3>
+
 
