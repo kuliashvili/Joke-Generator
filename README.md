@@ -29,7 +29,7 @@
 1. The application fetches a joke from the Joke API when it loads.
 2. If the joke type is "single," the joke is displayed as it is.
 3. If the joke type is "twopart," the setup and delivery are combined and displayed as one joke.
-4. Clicking the "New Joke" button triggers a new API call to fetch a new joke, which, is then displayed on the screen.
+4. Clicking the "New Joke" button, triggers a new API call to fetch a new joke, which, is then displayed on the screen.
 
 
 ## Acknowledgements
