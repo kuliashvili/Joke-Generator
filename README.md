@@ -19,17 +19,17 @@
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd joke-generator`
-3. Install the dependencies: `npm install`
+Clone the repository: `git clone <repository-url>`
+Navigate to the project directory: `cd joke-generator`
+Install the dependencies: `npm install`
 
 
 ## How It Works
 
-1. The application fetches a joke from the Joke API when it loads.
-2. If the joke type is "single," the joke is displayed as it is.
-3. If the joke type is "twopart," the setup and delivery are combined and displayed as one joke.
-4. Clicking the "New Joke" button, triggers a new API call to fetch a new joke, which, is then displayed on the screen.
+The application fetches a joke from the Joke API when it loads.
+If the joke type is "single," the joke is displayed as it is.
+If the joke type is "twopart," the setup and delivery are combined and displayed as one joke.
+Clicking the "New Joke" button, triggers a new API call to fetch a new joke, which, is then displayed on the screen.
 
 
 ## Acknowledgements
