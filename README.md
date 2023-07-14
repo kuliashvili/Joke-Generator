@@ -26,7 +26,7 @@ Install the dependencies: `npm install`
 
 ## How It Works
 
-The application fetches a joke from the Joke API when it loads.
+The application fetches a joke from the Joke API, when it loads.
 If the joke type is "single," the joke is displayed as it is.
 If the joke type is "twopart," the setup and delivery are combined and displayed as one joke.
 Clicking the "New Joke" button, triggers a new API call to fetch a new joke, which, is then displayed on the screen.
